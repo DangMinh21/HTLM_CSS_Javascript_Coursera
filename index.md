@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## HTML CSS Javascript
 
 You can use the [editor on GitHub](https://github.com/DangMinh21/HTLM_CSS_Javascript_Coursera/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
